@@ -1,4 +1,6 @@
-module.exports = {
-    x:10,
-    y:20
+rana = {
+    name:"rana",
+    Age:24,
+    designation:"software Engineer"
 }
+module.exports  = rana;
